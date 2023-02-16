@@ -1,0 +1,39 @@
+body {
+				background-color: black;
+				font-family: Monospace;
+				color: white;
+}
+
+.nav {
+				float:right;
+}
+.btn {
+				border-radius: 300px;
+				width: 45%;
+				padding: 10px;
+				font-family: Monaco;
+}
+
+.center {
+				text-align: center;
+}
+
+.img {
+				float: left;
+				margin: 0;
+				padding: 10px;
+}
+
+.Sec {
+				float: right;
+				margin: 0;
+				padding: 10px;
+}
+
+.third {
+				float: left;
+				margin: 0;
+				padding: 9px;
+}
+
+ 
